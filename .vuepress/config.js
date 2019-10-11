@@ -5,7 +5,8 @@ module.exports = {
       { text: 'Home', link: '/' }
     ],
     sidebar: [
-      '/'
+      '/',
+      'test.md'
     ],
     displayAllHeaders: true,
     sidebarDepth: 2
